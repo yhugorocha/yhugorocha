@@ -51,6 +51,12 @@ Atualmente, busco evoluir cada vez mais em arquitetura de software, boas prátic
 </div>
 
 ---
+## 💻 Linguagens
+<div align="left">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yhugorocha&layout=compact&theme=tokyonight&hide_border=false&bg_color=#4682B4&title_color=#4682B4&icon_color=#4682B4"/>
+</div><br/>
+
+---
 
 ## 📚 Atualmente estudando
 - Arquitetura
